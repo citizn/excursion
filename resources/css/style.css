@@ -2,34 +2,29 @@ body {
   background-color: black;
   text-align: center;
   font-family: Verdana, sans-serif;
+  color: white;
 }
 
-.main-header {
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h1 {
   font-size: 50px;
   font-weight: normal;
 }
 
-.main-header,
 h2 {
-  color: white;
+  font-size: 42px;
+  font-weight: 300;
 }
 
-.link {
-  font-size: 16px;
-  color: aquamarine;
-}
-
-.footer,
-.presentation {
+p {
   font-size: 21px;
   color: gray;
 }
 
 .footer {
   text-align: right;
-}
-
-h2 {
-  font-size: 42px;
-  font-weight: 300;
 }
